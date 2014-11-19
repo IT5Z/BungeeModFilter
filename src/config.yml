@@ -1,0 +1,4 @@
+DisconnectMessage: '包含非法的模组 <%amount%>: %mods%'
+Blacklist:
+- Kradxns Minimap
+- Scenter

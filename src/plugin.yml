@@ -1,0 +1,4 @@
+name: BungeeModFilter
+main : com.it5z.bungeemodfilter.BungeeModFilter
+version: 0.0.1
+author: Android
